@@ -32,7 +32,7 @@ Key variables influencing the demand for shared bikes:
 
 
 ## Contact
-Created by [@yashchaddha] - feel free to contact me!
+Created by [@yashchaddha](https://github.com/yashchaddha) - feel free to contact me!
 
 
 <!-- Optional -->
