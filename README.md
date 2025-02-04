@@ -9,14 +9,14 @@ A bike-sharing system is a service in which bikes are made available for shared 
 - How well those variables describe the bike demands
 
 ## Technologies Used
-- numpy - version 1.20.3
-- pandas - version 1.3.4
-- matplotlib - version 3.4.3
-- plotly - version 5.6.0
-- seaborn - version 0.11.2
-- statsmodels - version 0.12.2
-- sklearn - version 0.24.2
-- scipy - version 1.7.1   
+- NumPy Version: 1.26.4
+- Pandas Version: 2.2.2
+- Matplotlib Version: 3.9.2
+- Plotly Version: 5.24.1
+- Seaborn Version: 0.13.2
+- Statsmodels Version: 0.14.2
+- Scikit-learn Version: 1.5.1
+- SciPy Version: 1.13.1 
 
 ## Conclusion
 Key variables influencing the demand for shared bikes:
